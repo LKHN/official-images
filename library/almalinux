@@ -1,4 +1,4 @@
-# This file is generated using https://github.com/yuravk/docker-images/actions/runs/8265513485
+# This file is generated using https://github.com/yuravk/docker-images/actions/runs/8265795704
 Maintainers: The AlmaLinux OS Foundation <cloud-infra@almalinux.org> (@AlmaLinux)
 GitRepo: https://github.com/yuravk/docker-images.git
 
@@ -20,8 +20,8 @@ GitCommit: 85266b950a1692e61d81eac34fdbf5ef9cebb738
 File: dockerfiles/official/al9/Dockerfile.default
 Architectures: amd64, arm64v8, ppc64le, s390x
 
-Tags: minimal, 9-minimal, 9.3-minimal, 9.3-minimal-20231124
+Tags: minimal, 9-minimal, 9.3-minimal, 9.3-minimal-20240313
 GitFetch: refs/heads/official
-GitCommit: 13ee91b7dc99916f0e2d8d25d7eb70d46acdb93d
+GitCommit: 63d956cd371203bbf574e31434c30527fa4f3cd7
 File: dockerfiles/official/al9/Dockerfile.minimal
 Architectures: amd64, arm64v8, ppc64le, s390x
