@@ -1,27 +1,27 @@
-# This file is generated using https://github.com/yuravk/docker-images/actions/runs/8265795704
+# This file is generated using https://github.com/yuravk/container-images/actions/runs/8325550377
 Maintainers: The AlmaLinux OS Foundation <cloud-infra@almalinux.org> (@AlmaLinux)
-GitRepo: https://github.com/yuravk/docker-images.git
+GitRepo: https://github.com/yuravk/container-images.git
 
 Tags: 8, 8.9, 8.9-20231124
-GitFetch: refs/heads/official
-GitCommit: 85266b950a1692e61d81eac34fdbf5ef9cebb738
-File: dockerfiles/official/al8/Dockerfile.default
+GitFetch: refs/heads/docker-library
+GitCommit: bced9781233c35a02ce39c6bca13d8f8b3d5125f
+File: Containerfiles/8/Containerfile.default
 Architectures: amd64, arm64v8, ppc64le, s390x
 
-Tags: 8-minimal, 8.9-minimal, 8.9-minimal-20240313
-GitFetch: refs/heads/official
-GitCommit: 8fbfc3a6565e293b374333cf59d786f2463daaa8
-File: dockerfiles/official/al8/Dockerfile.minimal
+Tags: 8-minimal, 8.9-minimal, 8.9-minimal-20231124
+GitFetch: refs/heads/docker-library
+GitCommit: bced9781233c35a02ce39c6bca13d8f8b3d5125f
+File: Containerfiles/8/Containerfile.minimal
 Architectures: amd64, arm64v8, ppc64le, s390x
 
-Tags: latest, 9, 9.3, 9.3-20231124
-GitFetch: refs/heads/official
-GitCommit: 85266b950a1692e61d81eac34fdbf5ef9cebb738
-File: dockerfiles/official/al9/Dockerfile.default
+Tags: latest, 9, 9.3, 9.3-20240315
+GitFetch: refs/heads/docker-library
+GitCommit: 7e903c8a8de8bd7ad505caf6c2c86ff83c8e7097
+File: Containerfiles/9/Containerfile.default
 Architectures: amd64, arm64v8, ppc64le, s390x
 
-Tags: minimal, 9-minimal, 9.3-minimal, 9.3-minimal-20240313
-GitFetch: refs/heads/official
-GitCommit: 63d956cd371203bbf574e31434c30527fa4f3cd7
-File: dockerfiles/official/al9/Dockerfile.minimal
+Tags: minimal, 9-minimal, 9.3-minimal, 9.3-minimal-20231124
+GitFetch: refs/heads/docker-library
+GitCommit: bced9781233c35a02ce39c6bca13d8f8b3d5125f
+File: Containerfiles/9/Containerfile.minimal
 Architectures: amd64, arm64v8, ppc64le, s390x
