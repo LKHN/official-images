@@ -1,4 +1,4 @@
-# This file is generated using https://github.com/yuravk/container-images/actions/runs/8340885000
+# This file is built on the runner https://github.com/yuravk/container-images/actions/runs/8433803998
 Maintainers: The AlmaLinux OS Foundation <cloud-infra@almalinux.org> (@AlmaLinux)
 GitRepo: https://github.com/yuravk/container-images.git
 
@@ -20,8 +20,8 @@ GitCommit: 7e903c8a8de8bd7ad505caf6c2c86ff83c8e7097
 File: Containerfiles/9/Containerfile.default
 Architectures: amd64, arm64v8, ppc64le, s390x
 
-Tags: minimal, 9-minimal, 9.3-minimal, 9.3-minimal-20231124
+Tags: minimal, 9-minimal, 9.3-minimal, 9.3-minimal-20240323
 GitFetch: refs/heads/docker-library
-GitCommit: bced9781233c35a02ce39c6bca13d8f8b3d5125f
+GitCommit: 56f2dd24befa77801b57bcd8d31e1f10644804e0
 File: Containerfiles/9/Containerfile.minimal
 Architectures: amd64, arm64v8, ppc64le, s390x
